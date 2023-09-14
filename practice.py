@@ -18,4 +18,4 @@ plt.show()
 
 
 # Documentation on how to use it properly is here https://matplotlib.org/stable/tutorials/introductory/quick_start.html
-# would highly recommend using this link to manipulate and shape your graphs.
+# would highly recommend using this link to manipulate and shape your graphs. 
